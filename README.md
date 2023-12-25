@@ -13,14 +13,14 @@ Welcome to the Traveler Website, your ultimate destination for exploring and boo
 * Database (MySQL): Storing and retrieving tour package information to provide accurate and up-to-date details.
 
 ## To Do:
-[] Design DB Structure
-[] Import Data
-[] Code 'Book now' button to create booking function
-[] Implement Login/Register function
-[] Implement code Destination section to pull data from Database
-[] Implement code Packages section --> Perfect Tour Packages --> pull data from DB
-[] Code 'Sign up form' --> what would it do?
-[] Code Guide section --> Our Travel Guides --> pull data from DB
-[] Code Testimonial section --> pull data from DB
-[] Blog section --> how to pull latest blog post?
-[] Newsletter Signup form --> what would it do?
+- [ ] Design DB Structure
+- [ ] Import Data
+- [ ] Code 'Book now' button to create booking function
+- [ ] Implement Login/Register function
+- [ ] Implement code Destination section to pull data from Database
+- [ ] Implement code Packages section --> Perfect Tour Packages --> pull data from DB
+- [ ] Code 'Sign up form' --> what would it do?
+- [ ] Code Guide section --> Our Travel Guides --> pull data from DB
+- [ ] Code Testimonial section --> pull data from DB
+- [ ] Blog section --> how to pull latest blog post?
+- [ ] Newsletter Signup form --> what would it do?
