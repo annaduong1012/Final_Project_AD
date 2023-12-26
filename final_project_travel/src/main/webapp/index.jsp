@@ -1,5 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -77,21 +79,21 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-between px-3" id="navbarCollapse">
                     <div class="navbar-nav ml-auto py-0">
-                        <a href="index.html" class="nav-item nav-link active">Home</a>
-                        <a href="about.html" class="nav-item nav-link">About</a>
-                        <a href="service.html" class="nav-item nav-link">Services</a>
-                        <a href="package.html" class="nav-item nav-link">Tour Packages</a>
+                     <a href="index.html" class="nav-item nav-link active">Tour Packages</a>
+                        <a href="about.html" class="nav-item nav-link">Attractions</a>
+                        <a href="service.html" class="nav-item nav-link">Hot Deals</a>
+                       	<a href="package.html" class="nav-item nav-link">Travel Guides</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                             <div class="dropdown-menu border-0 rounded-0 m-0">
-                                <a href="blog.html" class="dropdown-item">Blog Grid</a>
-                                <a href="single.html" class="dropdown-item">Blog Detail</a>
-                                <a href="destination.html" class="dropdown-item">Destination</a>
-                                <a href="guide.html" class="dropdown-item">Travel Guides</a>
-                                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                                <a href="blog.html" class="dropdown-item">Log In/ Sign Up</a>
+                                <a href="single.html" class="dropdown-item">Bookings</a>
+                                <a href="destination.html" class="dropdown-item">Rewards</a>
+                                <a href="guide.html" class="dropdown-item">Saved</a>
+                                <a href="testimonial.html" class="dropdown-item">Sign Out</a>
                             </div>
                         </div>
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        <!-- <a href="contact.html" class="nav-item nav-link">Contact</a>-->
                     </div>
                 </div>
             </nav>
